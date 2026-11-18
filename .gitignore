@@ -46,3 +46,9 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Requisitos de entrega UDITflix
+build/
+.flutter-plugins
+android/.gradle/
+android/local.properties
